@@ -7,7 +7,7 @@
 ## Description:
 
 The **RFID-Based E-Passport Verification System** is a secure, automated solution designed to enhance border control operations through **Radio Frequency Identification (RFID)** technology.  
-It enables **contactless, fast, and accurate** verification of travelers’ identities while maintaining data integrity and compliance with **International Civil Aviation Organization (ICAO)** standards.
+It enables **contactless, fast, and accurate** verification of travelers’ identities while maintaining data integrity and compliance with **International Civil Aviation Organization (ICAO)** standards..
 
 This system integrates **RFID readers**, **Arduino microcontrollers**, and **secure verification software** to authenticate e-passports, cross-check biometric data, and prevent fraud or unauthorized access.  
 
