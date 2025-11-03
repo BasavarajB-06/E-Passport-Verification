@@ -65,10 +65,20 @@ This system integrates **RFID readers**, **Arduino microcontrollers**, and **sec
 
 ### 🧭 Maps Section
 <p align="center">
-  <img src="Images/map_1.png" alt="Map Image 1" width="550"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="Images/map_2.jpg" alt="Map Image 2" width="550"/>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="Images/map_1.png" alt="Map Image 1" width="400"/><br/>
+        <em>Map 1 – Deployment Overview</em>
+      </td>
+      <td align="center">
+        <img src="Images/map_2.jpg" alt="Map Image 2" width="400"/><br/>
+        <em>Map 2 – Data Visualization Zone</em>
+      </td>
+    </tr>
+  </table>
 </p>
+
 <p align="center"><em>Maps showing potential deployment and data visualization locations.</em></p>
 
 ---
