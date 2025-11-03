@@ -65,23 +65,19 @@ This system integrates **RFID readers**, **Arduino microcontrollers**, and **sec
 
 ### 🧭 Maps Section
 <p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="Images/map_1.png" alt="Map Image 1" width="400"/><br/>
-        <em>Map 1 – Deployment Overview</em>
-      </td>
-      <td align="center">
-        <img src="Images/map_2.jpg" alt="Map Image 2" width="400"/><br/>
-        <em>Map 2 – Data Visualization Zone</em>
-      </td>
-    </tr>
-  </table>
+  <img src="Images/map_1.png" alt="Map Image 1" width="600"/>
 </p>
+<p align="center"><em>Map 1 – Deployment Overview</em></p>
+
+<p align="center">
+  <img src="Images/map_2.jpg" alt="Map Image 2" width="600"/>
+</p>
+<p align="center"><em>Map 2 – Data Visualization Zone</em></p>
 
 <p align="center"><em>Maps showing potential deployment and data visualization locations.</em></p>
 
 ---
+
 
 ### 💻 Thonny IDE – Verification Code
 <p align="center">
