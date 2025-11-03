@@ -1,4 +1,4 @@
-# E-Passport Verification System
+# 🛂 E-Passport Verification System
 
 ![E-Passport Verification System](Images/e_passport_main.jpg)
 
@@ -7,7 +7,7 @@
 ## Description:
 
 The **RFID-Based E-Passport Verification System** is a secure, automated solution designed to enhance border control operations through **Radio Frequency Identification (RFID)** technology.  
-It enables **contactless, fast, and accurate** verification of travelers’ identities while maintaining data integrity and compliance with **International Civil Aviation Organization (ICAO)** standards..
+It enables **contactless, fast, and accurate** verification of travelers’ identities while maintaining data integrity and compliance with **International Civil Aviation Organization (ICAO)** standards.
 
 This system integrates **RFID readers**, **Arduino microcontrollers**, and **secure verification software** to authenticate e-passports, cross-check biometric data, and prevent fraud or unauthorized access.  
 
@@ -37,39 +37,47 @@ This system integrates **RFID readers**, **Arduino microcontrollers**, and **sec
 
 ---
 
-## 🧭 System Architecture
-
-Below is the **proposed architecture** showing the interaction between hardware, RFID modules, and the verification server.
-
-<p align="center">
-  <img src="Images/system_architecture.png" alt="E-Passport System Architecture" width="700"/>
-</p>
-
----
-
 ## 📷 Images & Visuals
 
-### 🧩 Hardware Setup
+### 💻 Verification Interface – Before Scanning
 <p align="center">
-  <img src="Images/hardware_setup.png" alt="Hardware Setup" width="550"/>
+  <img src="Images/verification1.png" alt="Verification Before Scanning" width="600"/>
 </p>
-<p align="center"><em>Arduino with RC522 RFID Module and RFID card used for passport verification.</em></p>
+<p align="center"><em>System interface before scanning the e-passport RFID card.</em></p>
 
 ---
 
-### 💻 Verification Interface
+### 💻 Verification Interface – After Scanning
 <p align="center">
-  <img src="Images/interface_ui.png" alt="Verification Interface" width="600"/>
+  <img src="Images/verification2.png" alt="Verification After Scanning" width="600"/>
 </p>
-<p align="center"><em>Custom software interface for real-time data monitoring and authentication.</em></p>
+<p align="center"><em>System interface displaying verified passport details after RFID scanning.</em></p>
 
 ---
 
-### ⚙️ Data Flow Diagram
+### ⚙️ Arduino Setup
 <p align="center">
-  <img src="Images/data_flow.png" alt="Data Flow Diagram" width="700"/>
+  <img src="Images/arduino.png" alt="Arduino Setup" width="650"/>
 </p>
-<p align="center"><em>Secure data transmission between the e-passport chip, RFID reader, and verification server.</em></p>
+<p align="center"><em>Arduino setup with RC522 RFID module for e-passport verification.</em></p>
+
+---
+
+### 🧭 Maps Section
+<p align="center">
+  <img src="Images/map1.png" alt="Map Image 1" width="550"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="Images/map2.png" alt="Map Image 2" width="550"/>
+</p>
+<p align="center"><em>Maps showing potential deployment and data visualization locations.</em></p>
+
+---
+
+### 💻 Thonny IDE – Verification Code
+<p align="center">
+  <img src="Images/thonny.png" alt="Thonny Code Screenshot" width="700"/>
+</p>
+<p align="center"><em>Python backend verification logic running in Thonny IDE.</em></p>
 
 ---
 
@@ -126,14 +134,5 @@ Below is the **proposed architecture** showing the interaction between hardware,
 - **Improved RFID Sensitivity:** For damaged or low-signal passports.  
 - **Mobile Integration:** Smartphone-based RFID verification tools.  
 - **Cross-Border Standardization:** Support global interoperability and shared databases.  
-
----
-
-## 📚 References:
-
-1. Konin, A. S. (2016). *Introduction and Application of RFID Technologies in Aircraft Construction Industry.* Radio Industry.  
-2. Siegel, P. H. (2021). *IEEE Journal of Microwaves, Summer Issue.*  
-3. Ramshida, V. P. (2018). *Dynamic Traffic Control System Using RFID and GSM.*  
-4. Wimalasiri, B., & Jeyamohan, N. (2018). *An E-Passport System with Multistage Authentication.*
 
 ---
