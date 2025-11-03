@@ -1,4 +1,4 @@
-# 🛂 E-Passport Verification System
+# E-Passport Verification System
 
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img src="Images/card_1.png" alt="E-Passport Card Front" width="420"/>
