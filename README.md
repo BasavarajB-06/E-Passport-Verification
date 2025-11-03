@@ -11,11 +11,6 @@ It enables **contactless, fast, and accurate** verification of travelers’ iden
 
 This system integrates **RFID readers**, **Arduino microcontrollers**, and **secure verification software** to authenticate e-passports, cross-check biometric data, and prevent fraud or unauthorized access.  
 
-🎥 **Demo:**  
-<p align="left">
-  <img src="Images/e_passport_demo.gif" alt="E-Passport System Demo" width="320"/>
-</p>
-
 ---
 
 ## How It Works:
