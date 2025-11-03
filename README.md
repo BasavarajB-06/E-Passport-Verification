@@ -41,7 +41,7 @@ This system integrates **RFID readers**, **Arduino microcontrollers**, and **sec
 
 ### 💻 Verification Interface – Before Scanning
 <p align="center">
-  <img src="Images/verification1.png" alt="Verification Before Scanning" width="600"/>
+  <img src="Images/Veri_1.png" alt="Verification Before Scanning" width="600"/>
 </p>
 <p align="center"><em>System interface before scanning the e-passport RFID card.</em></p>
 
@@ -49,7 +49,7 @@ This system integrates **RFID readers**, **Arduino microcontrollers**, and **sec
 
 ### 💻 Verification Interface – After Scanning
 <p align="center">
-  <img src="Images/verification2.png" alt="Verification After Scanning" width="600"/>
+  <img src="Images/Veri_2.png" alt="Verification After Scanning" width="600"/>
 </p>
 <p align="center"><em>System interface displaying verified passport details after RFID scanning.</em></p>
 
@@ -57,7 +57,7 @@ This system integrates **RFID readers**, **Arduino microcontrollers**, and **sec
 
 ### ⚙️ Arduino Setup
 <p align="center">
-  <img src="Images/arduino.png" alt="Arduino Setup" width="650"/>
+  <img src="Images/arduino.jpg" alt="Arduino Setup" width="650"/>
 </p>
 <p align="center"><em>Arduino setup with RC522 RFID module for e-passport verification.</em></p>
 
@@ -65,9 +65,9 @@ This system integrates **RFID readers**, **Arduino microcontrollers**, and **sec
 
 ### 🧭 Maps Section
 <p align="center">
-  <img src="Images/map1.png" alt="Map Image 1" width="550"/>
+  <img src="Images/map1.jpg" alt="Map Image 1" width="550"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="Images/map2.png" alt="Map Image 2" width="550"/>
+  <img src="Images/map2.jpg" alt="Map Image 2" width="550"/>
 </p>
 <p align="center"><em>Maps showing potential deployment and data visualization locations.</em></p>
 
@@ -75,7 +75,7 @@ This system integrates **RFID readers**, **Arduino microcontrollers**, and **sec
 
 ### 💻 Thonny IDE – Verification Code
 <p align="center">
-  <img src="Images/thonny.png" alt="Thonny Code Screenshot" width="700"/>
+  <img src="Images/thonny.jpg" alt="Thonny Code Screenshot" width="700"/>
 </p>
 <p align="center"><em>Python backend verification logic running in Thonny IDE.</em></p>
 
